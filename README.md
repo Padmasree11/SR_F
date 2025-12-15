@@ -77,6 +77,8 @@ endmodule
 ![WhatsApp Image 2025-12-15 at 18 31 52_b585426b](https://github.com/user-attachments/assets/504555c9-1e5c-4df3-bb50-d75377801b0f)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+<img width="1908" height="883" alt="Screenshot 2025-12-15 112058" src="https://github.com/user-attachments/assets/87d6c83a-4752-4501-ba64-08695aaff506" />
+
 
 **RESULTS**
 Thus the SR flipflop using verilog and validating their functionality using their functional tables is implemented successfully.
